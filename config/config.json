@@ -1,0 +1,19 @@
+{
+  "dataset": {
+    "label_train": "D:\\ganka_2024\\dataset\\label_train.csv",
+    "submission": "D:\\ganka_2024\\dataset\\解答用ファイル.csv",
+    "train": "D:\\ganka_2024\\dataset\\train",
+    "train_crop": "D:\\ganka_2024\\dataset\\train_crop",
+    "test": "D:\\ganka_2024\\dataset\\test",
+    "test_crop": "D:\\ganka_2024\\dataset\\test_crop"
+  },
+  "params": {
+    "model_name": "tf_efficientnetv2_s.in21k_ft_in1k",
+    "batch_size": 32,
+    "num_workers": 0,
+    "img_size": 224,
+    "test_size": 0.2,
+    "seed": 1024,
+    "learning_rate": 1e-3
+  }
+}
