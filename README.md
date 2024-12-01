@@ -4,7 +4,7 @@
 http://www.jsaio.jp/meeting/soukai/contest/index.html
 
 発表に用いたスライド  
-https://docs.google.com/presentation/d/1PH5SoNRZZyMNT73mrPIksIyxcg3X_moP2haGC4ZrZbU/edit?usp=sharing
+https://speakerdeck.com/neilsaw/di-5hui-ri-ben-yan-ke-aixue-hui-zong-hui-aikontesuto-3wei-jie-fa
 
 ---
 
