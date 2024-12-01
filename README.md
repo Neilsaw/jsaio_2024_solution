@@ -3,6 +3,9 @@
 テーマ: 眼底写真を用いたメタボリックシンドローム推定  
 http://www.jsaio.jp/meeting/soukai/contest/index.html
 
+発表に用いたスライド  
+https://docs.google.com/presentation/d/1PH5SoNRZZyMNT73mrPIksIyxcg3X_moP2haGC4ZrZbU/edit?usp=sharing
+
 ---
 
 ## 解法概要
